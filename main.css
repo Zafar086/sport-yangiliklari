@@ -1,0 +1,60 @@
+h1{
+    background-color: red;
+    border-radius: 10px;
+    color: blue;
+    text-align: center;
+}
+h2{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+span{
+    background-color: yellow;
+color: black;
+border-radius: 7px;
+}
+span1{
+    background-color: yellow;
+    color: black;
+    border-radius: 7px;
+}
+
+span2{
+    background-color: yellow;
+    color: black;
+    border-radius: 7px;
+}
+h3{
+    text-align: center;
+}
+
+img{
+height: 300px;
+}
+
+h4{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+span3{
+    background-color: yellow;
+    color: black ;
+    border-radius: 7px;
+}
+
+span4{
+    background-color: green;
+    color: yellow;
+    border-radius: 7px;
+}
+
+h5{
+    text-align: center;
+}
+
+img{
+height: 300px;
+}
